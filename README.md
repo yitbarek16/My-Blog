@@ -28,7 +28,6 @@ This Blog Web Application is a Django-based platform that allows users to create
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yitbarek16/My-Blog.git
-   cd myblog
 
 2. **Create and activate a virtual environment**:
      ```bash
