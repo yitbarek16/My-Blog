@@ -34,15 +34,19 @@ This Blog Web Application is a Django-based platform that allows users to create
      python -m venv venv
      source venv/bin/activate
 
-3. **Run database migrations**:
+3. **Install the requirement**
+     ```bash
+     pip install -r requirement.txt
+
+4. **Run database migrations**:
      ```bash
      python manage.py migrate
 
-4. **Start the development server**:
+5. **Start the development server**:
      ```bash
      python manage.py runserver
      
-5. **Access the application**:
+6. **Access the application**:
      Open your web browser and navigate to http://127.0.0.1:8000/.
 
 ## License
